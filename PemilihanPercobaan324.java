@@ -31,6 +31,5 @@ public class PemilihanPercobaan324{
             System.out.println(angka1+" / "+angka2+ " = "+hasil);
             break;
         }
-
     }
 }
